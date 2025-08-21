@@ -20,20 +20,23 @@ const Hero = () => {
             <div className="space-y-4 mt-5">
               <div className="flex items-center gap-2 text-secondary">
                 <Sparkles size={20} />
-                <span className="text-sm font-medium tracking-wider uppercase">Service Designer</span>
+                <span className="text-sm font-medium tracking-wider uppercase">Bruno Lorencini</span>
               </div>
               
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
-                Transformo suas{" "}
-                <span className="text-gradient text-glow">ideias</span>{" "}
-                em projetos{" "}
-                <span className="text-gradient text-glow">reais</span>
+                Tire seu sonho{" "}
+                <span className="text-gradient text-glow">do papel</span>{" "}
+                comigo
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-xl">
-                Sou especialista em Analytics, Design e Product Management. 
-                Trabalho com você para tirar suas ideias do papel de forma 
-                rápida e eficiente.
+                Toda grande conquista começou como uma simples ideia.
+                Mas o que separa sonhos que morrem no papel daqueles que mudam vidas… é a execução.
+              </p>
+              
+              <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+                Eu sou Bruno Lorencini. Minha missão é transformar o que você imagina em algo real, funcional e memorável.
+                — Do primeiro rascunho até o lançamento.
               </p>
             </div>
 
